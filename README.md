@@ -1,2 +1,2 @@
 # wasim
-this is typeing
+this is typeing.
